@@ -15,7 +15,6 @@ If you have taken the course up to this point, then you know how to write a loop
   <summary>Click For Solution</summary>
 
 ### Solution 1: `For` Loop
-
 ```JavaScript
   for (let i = 1; i <= 100; i++) {
     if (i % 15 == 0) {

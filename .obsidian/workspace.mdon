@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "e590c30dec9606f8",
+    "id": "5a77dd8dd144316c",
     "type": "split",
     "children": [
       {
-        "id": "b9eb42394859b9e6",
+        "id": "e1fd8f32d4b76a47",
         "type": "tabs",
         "children": [
           {
-            "id": "f32b920454959418",
+            "id": "35a86f6f4acb2008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "javascript-sandbox-main/06-document-object-model/01-dom-intro/script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fff41c5d61de2d07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/NOTES.md",
-                "mode": "source",
-                "source": false
+                "file": "cheat_sheet_sqlite_0.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7c06d8a2c5358768",
+    "id": "a3794e0cc9e27835",
     "type": "split",
     "children": [
       {
-        "id": "5b6da6debe262e89",
+        "id": "84db2f94b2f5f9c8",
         "type": "tabs",
         "children": [
           {
-            "id": "53f22b82786382d9",
+            "id": "30b4bdbf432823fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +41,7 @@
             }
           },
           {
-            "id": "0cbfb0c67b5877bd",
+            "id": "76ec966346cfe256",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,10 +56,18 @@
             }
           },
           {
-            "id": "a6c6fb1ed1d085d0",
+            "id": "a2cd0c8dfea1b4e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "11f7a9fc1b182301",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -85,20 +78,20 @@
     "width": 300
   },
   "right": {
-    "id": "4e30c345f5821260",
+    "id": "fa5b239a62df22ea",
     "type": "split",
     "children": [
       {
-        "id": "b22f4e0686bc9347",
+        "id": "c0742a4be9fb63c6",
         "type": "tabs",
         "children": [
           {
-            "id": "482b59b6b219f262",
+            "id": "8944d77215d401b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/NOTES.md",
+                "file": "cheat_sheet_sqlite_0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +103,19 @@
             }
           },
           {
-            "id": "3d2ac328c27144a9",
+            "id": "277ff533c526bf0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/NOTES.md",
+                "file": "cheat_sheet_sqlite_0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8ef41d51ec8387eb",
+            "id": "a69edd0776d5e138",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +126,12 @@
             }
           },
           {
-            "id": "72b6a9b5a8b71599",
+            "id": "7a9b4cf9d33684f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/NOTES.md"
+                "file": "cheat_sheet_sqlite_0.pdf"
               }
             }
           }
@@ -156,17 +149,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "53f22b82786382d9",
+  "active": "35a86f6f4acb2008",
   "lastOpenFiles": [
-    "Chemistry/img",
-    "Chemistry/img/Capture.PNG",
-    "Chemistry/NOTES.md",
-    "javascript-sandbox-main/06-document-object-model/01-dom-intro/script.md",
-    "wtfjs/wtfjs.md",
-    "wtfjs/README.md",
-    "bmc-image.md"
+    "Chemistry/Labs/00_Recording Scientific Observations Lab Report Sheet.pdf",
+    "javascript-sandbox-main/javascript-sandbox-start/05-iteration-array-methods/04-fizzbuzz-challenge/04-fizzbuzz-challenge.md",
+    "javascript-sandbox-main/12-web-browser-apis/03-canvas/ball.png",
+    "Formatting/Callout.md",
+    "webdev/PDF-Guide-Node-Andrew-Mead-v3.pdf",
+    "cheat_sheet_sqlite_0.pdf",
+    "webdev/webkit-css3-cheat-sheet.pdf",
+    "webdev/HTML5-cheat-sheet.pdf",
+    "webdev/es6-cheat-sheet.pdf",
+    "2024-08-16.md",
+    "Untitled.md",
+    "Untitled 1",
+    "00_Templates",
+    "00_Templates.md",
+    "Plugins make Obsidian special for you.md",
+    "Untitled.canvas",
+    "Formatting/Diagram.md",
+    "Formatting/Format your notes.md",
+    "Formatting/Embeds.md",
+    "Formatting/Blockquote.md",
+    "Formatting/Code block.md",
+    "Formatting/Comment.md",
+    "Formatting/Task.md",
+    "Formatting/Table.md",
+    "Formatting/Strikethrough.md",
+    "Formatting/Math.md",
+    "Formatting/Lists.md",
+    "Formatting/Inline code.md",
+    "Formatting/Images.md",
+    "Formatting/Emphasis.md",
+    "Chemistry/Labs/Recording Scientific Observations Lab Report Sheet.pdf",
+    "Chemistry/Labs",
+    "Adventurer/No prior experience.md",
+    "Start Here.md",
+    "Guides/Create a vault.md",
+    "Guides/Get started with Obsidian.md",
+    "2024-08-14.md"
   ]
 }
