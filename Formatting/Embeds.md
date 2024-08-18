@@ -1,7 +1,6 @@
-Embed another file (read more about [[Embeds]]). Here's an embedded section:
+Embed another file Here's an embedded section:
 
 ```md
 ![[Plugins makes Obsidian special for you]]
 ```
 
-![[Plugins make Obsidian special for you]]

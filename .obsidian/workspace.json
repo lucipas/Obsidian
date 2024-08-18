@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b9eb42394859b9e6",
+        "id": "70564c5fe4bd78a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f32b920454959418",
+            "id": "c32f1598901bc5f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript-sandbox-main/06-document-object-model/01-dom-intro/script.md",
+                "file": "00_Templates/Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fff41c5d61de2d07",
+            "id": "01c65e5def2e3cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/NOTES.md",
+                "file": "00_Templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "XMLHTTP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e30c345f5821260",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/NOTES.md",
+                "file": "00_Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/NOTES.md",
+                "file": "00_Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/NOTES.md"
+                "file": "00_Templates/Untitled.md"
               }
             }
           }
@@ -159,14 +160,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f22b82786382d9",
+  "active": "01c65e5def2e3cde",
   "lastOpenFiles": [
-    "Chemistry/img",
-    "Chemistry/img/Capture.PNG",
+    "00_Templates/Test.md",
+    "00_Templates/Untitled.md",
+    "Untitled",
+    "00_Templates/Untitled 1.md",
+    "Formatting/Embeds.md",
+    "Formatting/Internal link.md",
+    "javascript-sandbox/18-unit-testing-algorithms/08-hasduplicateids/algo-testing/fizzbuzz/fizzbizz.md",
+    "javascript-sandbox/18-unit-testing-algorithms/07-getelementsbytag/algo-testing/arraychunk/arraychunk.test.md",
+    "javascript-sandbox/18-unit-testing-algorithms/08-hasduplicateids/algo-testing/arraychunk/arraychunk.test.md",
+    "javascript-sandbox/18-unit-testing-algorithms/05-array-chunking/algo-testing/arraychunk/arraychunk.test.md",
+    "javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/arraychunk/arraychunk.test.md",
+    "javascript-sandbox/14-oop-classes-private-properties/08-class-fields-ES2022/index.md",
+    "javascript-sandbox/19-nodejs-modules/04-url-qs-module/node-core-modules/urlqs.md",
+    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md",
     "Chemistry/NOTES.md",
-    "javascript-sandbox-main/06-document-object-model/01-dom-intro/script.md",
-    "wtfjs/wtfjs.md",
-    "wtfjs/README.md",
-    "bmc-image.md"
+    "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/fs.md",
+    "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/path.md",
+    "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/os.md",
+    "javascript-sandbox/19-nodejs-modules/02-path-module/node-core-modules/fs.md",
+    "javascript-sandbox/19-nodejs-modules/02-path-module/node-core-modules/path.md",
+    "javascript-sandbox/19-nodejs-modules/01-fs-module/node-core-modules/fs.md",
+    "javascript-sandbox/18-unit-testing-algorithms/01-jest-setp/algo-testing/sum.test.md",
+    "javascript-sandbox/17-iterators-data-structures/10-linked-lists/index.md",
+    "javascript-sandbox/17-iterators-data-structures/09-queues/index.md",
+    "javascript-sandbox/17-iterators-data-structures/10-linked-lists/script.md",
+    "javascript-sandbox/17-iterators-data-structures/08-stacks/index.md",
+    "javascript-sandbox/12-web-browser-apis/10-video-api/media/clouds.mov",
+    "javascript-sandbox/12-web-browser-apis/07-audio-api/summer.mp3",
+    "javascript-sandbox/06-document-object-model/02-examining-document-object-properties/shopping-list/images/note.png",
+    "javascript-sandbox/04-logic-control-flow/01-if-statements/comparison-operators.png",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/08-hasduplicateids/algo-testing/reversestring",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/01-jest-setp/algo-testing/package.mdon",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/01-jest-setp/algo-testing/package-lock.mdon",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/sum",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/reversestring",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/palindrome",
+    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/package.mdon",
+    "webdev/javascript-sandbox/javascript-sandbox-start/15-tracalorie-project/tracalorie_theme/project_diagram.png",
+    "webdev/javascript-sandbox/javascript-sandbox-start/12-web-browser-apis/04-requestAnimationFrame/ball.png",
+    "webdev/javascript-sandbox/javascript-sandbox-start/04-logic-control-flow/01-if-statements/comparison-operators.png",
+    "webdev/javascript-sandbox/12-web-browser-apis/10-video-api/media/poster.png",
+    "webdev/javascript-sandbox/12-web-browser-apis/04-requestAnimationFrame/ball.png",
+    "webdev/javascript-sandbox/12-web-browser-apis/03-canvas/ball.png",
+    "webdev/javascript-sandbox/04-logic-control-flow/01-if-statements/comparison-operators.png",
+    "javascript-sandbox/javascript-sandbox-start/12-web-browser-apis/11-video-player-project/video-player/media/poster.png"
   ]
 }

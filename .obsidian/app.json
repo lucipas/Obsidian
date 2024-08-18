@@ -1,3 +1,9 @@
 {
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

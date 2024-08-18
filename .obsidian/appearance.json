@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "main"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#35313f"
+}
