@@ -1,3 +1,4 @@
+```js
 const os = require('os');
 
 // arch()

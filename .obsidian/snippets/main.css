@@ -10,7 +10,7 @@ html, body {
     width: 100%; /* fullscreen */
     height: 100%; /* fullscreen */
     overflow: clip;
-    color:rgb(146, 162, 167);
+    color:rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 }
 

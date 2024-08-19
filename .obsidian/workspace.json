@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70564c5fe4bd78a2",
+        "id": "7e739792b25db240",
         "type": "tabs",
         "children": [
           {
-            "id": "c32f1598901bc5f1",
+            "id": "04649a15668a6028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Templates/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01c65e5def2e3cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md",
-                "mode": "source",
+                "file": "wtfjs/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md",
+                "file": "wtfjs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md",
+                "file": "wtfjs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md"
+                "file": "wtfjs/README.md"
               }
             }
           }
@@ -160,14 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01c65e5def2e3cde",
+  "active": "04649a15668a6028",
   "lastOpenFiles": [
-    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/fs.md",
+    "00_Templates/Test.md",
+    "javascript-sandbox/19-nodejs-modules/04-url-qs-module/node-core-modules/urlqs.md",
+    "javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/reversestring/reversestring.test.md",
+    "javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/reversestring/reversestring.md",
+    "javascript-sandbox/02-arrays-and-objects/08-json-intro/todo.json",
+    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/os.md",
+    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/index.md",
     "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/http.md",
+    "webdev/es6-cheat-sheet.pdf",
+    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/urlqs.md",
+    "javascript-sandbox/19-nodejs-modules/05-http-module/node-core-modules/fs.md",
     "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/os.md",
     "javascript-sandbox/19-nodejs-modules/02-path-module/node-core-modules/path.md",
     "00_Templates/Untitled.md",
-    "00_Templates/Test.md",
     "Untitled",
     "00_Templates/Untitled 1.md",
     "Formatting/Embeds.md",
@@ -178,17 +173,11 @@
     "javascript-sandbox/18-unit-testing-algorithms/05-array-chunking/algo-testing/arraychunk/arraychunk.test.md",
     "javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/arraychunk/arraychunk.test.md",
     "javascript-sandbox/14-oop-classes-private-properties/08-class-fields-ES2022/index.md",
-    "javascript-sandbox/19-nodejs-modules/04-url-qs-module/node-core-modules/urlqs.md",
     "Chemistry/NOTES.md",
     "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/fs.md",
     "javascript-sandbox/19-nodejs-modules/03-os-module/node-core-modules/path.md",
     "javascript-sandbox/19-nodejs-modules/02-path-module/node-core-modules/fs.md",
     "javascript-sandbox/19-nodejs-modules/01-fs-module/node-core-modules/fs.md",
-    "javascript-sandbox/18-unit-testing-algorithms/01-jest-setp/algo-testing/sum.test.md",
-    "javascript-sandbox/17-iterators-data-structures/10-linked-lists/index.md",
-    "javascript-sandbox/17-iterators-data-structures/09-queues/index.md",
-    "javascript-sandbox/17-iterators-data-structures/10-linked-lists/script.md",
-    "javascript-sandbox/17-iterators-data-structures/08-stacks/index.md",
     "javascript-sandbox/12-web-browser-apis/10-video-api/media/clouds.mov",
     "javascript-sandbox/12-web-browser-apis/07-audio-api/summer.mp3",
     "javascript-sandbox/06-document-object-model/02-examining-document-object-properties/shopping-list/images/note.png",
@@ -198,8 +187,6 @@
     "webdev/javascript-sandbox/18-unit-testing-algorithms/01-jest-setp/algo-testing/package-lock.mdon",
     "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/sum",
     "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/reversestring",
-    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/palindrome",
-    "webdev/javascript-sandbox/18-unit-testing-algorithms/06-anagrams/algo-testing/package.mdon",
     "webdev/javascript-sandbox/javascript-sandbox-start/15-tracalorie-project/tracalorie_theme/project_diagram.png",
     "webdev/javascript-sandbox/javascript-sandbox-start/12-web-browser-apis/04-requestAnimationFrame/ball.png",
     "webdev/javascript-sandbox/javascript-sandbox-start/04-logic-control-flow/01-if-statements/comparison-operators.png",

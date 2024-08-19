@@ -93,7 +93,7 @@ The original idea for WTFJS belongs to [Brian Leroux](https://twitter.com/brianl
 
 > Just for fun
 >
-> &emdash; _[**“Just for Fun: The Story of an Accidental Revolutionary”**](https://en.wikipedia.org/wiki/Just_for_Fun), Linus Torvalds_
+>  _[**“Just for Fun: The Story of an Accidental Revolutionary”**](https://en.wikipedia.org/wiki/Just_for_Fun), Linus Torvalds_
 
 The primary goal of this list is to collect some crazy examples and explain how they work, if possible. Just because it's fun to learn something that we didn't know before.
 
