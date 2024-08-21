@@ -3,7 +3,7 @@
   "promptDelete": false,
   "newLinkFormat": "relative",
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true
 }
