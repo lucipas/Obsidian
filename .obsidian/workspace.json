@@ -11,8 +11,12 @@
             "id": "858b2ad54995267d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Everything/nvim/nvim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4e30c345f5821260",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Everything/nvim/nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Everything/nvim/nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Everything/nvim/nvim.md"
+              }
             }
           }
         ]
@@ -141,6 +148,8 @@
   },
   "active": "858b2ad54995267d",
   "lastOpenFiles": [
+    "Everything/nvim/vivim.gif",
+    "Everything/cheat_sheet_sqlite_0.pdf",
     "ZZ_Obsidian Meta/LaTeX_RefSheet.pdf",
     "ZZ_Obsidian Meta/LaTeX.md",
     "Chemistry/NOTES.md",
@@ -156,7 +165,6 @@
     "javascript-sandbox/10-fetch-and-async-await/09-multiple-promises-async-await/directors.json",
     "javascript-sandbox/10-fetch-and-async-await/09-multiple-promises-async-await/actors.json",
     "javascript-sandbox/10-fetch-and-async-await/01-fetch-basics/movies.json",
-    "javascript-sandbox/09-asynchronous-javascript/11-promise-all/movies.json",
     "nvim/vivim.gif",
     "00_Templates/Untitled.md",
     "javascript-sandbox/02-arrays-and-objects/01-array-basics/index.md",
